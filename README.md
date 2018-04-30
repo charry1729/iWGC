@@ -1,0 +1,2 @@
+# iWGC
+iWGC smart contract
